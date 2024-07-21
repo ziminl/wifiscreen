@@ -13,6 +13,8 @@ install https://github.com/nomi-san/parsec-vdd/releases to make virtual screen
 - Run WifiScreen application on computer/laptop
 - Run VNC Viewer application on devices/computer then connect to the **server:port** as shown in the WifiScreen Connector.
 
+1600 x 1200 was the best for ipad 
+
 
 ## Settings
 - Select a screen or all screens to share to other devices
