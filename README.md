@@ -42,7 +42,6 @@ The settings when click on Configurations button (you can only change the settin
 ![WifiScreen Server Settings](screenshoots/WifiScreenConfiguration2.png)
 
 
-Thanks to TightVNC team for the source code (https://www.tightvnc.com/download.php).
-- Note: On this download page, you may want to try DFMirage Driver to improve WifiScreen Server performance (as they mentioned).
 
-WifiScreen is an R&D project of http://www.3stone.vn/
+
+https://github.com/nomi-san/parsec-vdd/releases
