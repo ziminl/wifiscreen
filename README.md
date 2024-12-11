@@ -2,7 +2,7 @@
 Using  iPad, tablet, iPhone, android devices or other computers as an extended monitor for Microsoft Windows
 
 ## Portable packages
-= virtual screen portable https://github.com/nomi-san/parsec-vdd/releases
+- virtual screen portable https://github.com/nomi-san/parsec-vdd/releases
 - WifiScreen Portable for Windows 7 32-bit and later  [WifiScreen_Win32_Portable.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreen_Win32_Portable.zip)
 - WifiScreen Portable for Windows 7 64-bit and later  [WifiScreen_Win64_Portable.zip](https://github.com/trietho/wifiscreen/releases/download/1.0/WifiScreen_Win64_Portable.zip)
 
